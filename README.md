@@ -1,4 +1,4 @@
-## Start services (maven and ng needs to be installed)
+## Start services (Maven and Angular CLI need to be installed)
 ./build.sh
 
 ## Open
