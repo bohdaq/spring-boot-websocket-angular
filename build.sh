@@ -2,7 +2,9 @@ mvn clean install
 
 cd frontend
 
-ng build --configuration=development
+npm install
+
+ng build 
 
 cd ..
 
